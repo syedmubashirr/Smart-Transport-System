@@ -1,63 +1,59 @@
-SMART TRANSPORT SYSTEM
+# SMART TRANSPORT SYSTEM
 
+## 📌 Project Description
+The Smart Transport System is a Java-based application developed using Object-Oriented Programming (OOP) concepts. It helps manage transport bookings, drivers, and revenue in an organized and efficient way. The system demonstrates real-world software design using modular programming, file handling, and OOP principles.
 
-Made By:
-Fiza Naz (023-25-0036)
-Mubashir Hussain (023-25-0064)
+---
 
+## 👨‍🎓 Group Members
 
-PROJECT DESCRIPTION
+- **Fiza Naz**  
+  CMS ID: 023-25-0036  
+  Section: (Add your section here)
 
-This project is developed in Java using Object Oriented Programming concepts.
+- **Mubashir Hussain**  
+  CMS ID: 023-25-0064  
+  Section: (Add your section here)
 
+---
 
-FEATURES
+## 🎯 Purpose of the Project
+The purpose of this project is to build a Smart Transport System that automates booking management, driver records, and revenue calculation. It strengthens understanding of Java programming and Object-Oriented Programming concepts through practical implementation.
 
-. New Booking
-. View All Bookings
-. Search Booking
-. View Drivers
-. Calculate Revenue
-. Save Bookings to File
+---
 
+## 🧩 Main Features / Modules
 
-OOP CONCEPTS USED
+- ➕ New Booking  
+- 📄 View All Bookings  
+- 🔍 Search Booking  
+- 🚗 View Drivers  
+- 💰 Calculate Revenue  
+- 💾 Save Bookings to File  
 
-. Inheritance
-. Abstraction
-. Interface
-. Encapsulation
-. Polymorphism
+---
 
+## 🛠️ Technologies & Concepts Used
 
-OTHER CONCEPTS
+### Object-Oriented Programming (OOP)
+- Inheritance  
+- Abstraction  
+- Interface  
+- Encapsulation  
+- Polymorphism  
 
-. Exception Handling
-. File Handling
-. ArrayList
-. Packages
+### Other Concepts
+- Exception Handling  
+- File Handling  
+- ArrayList  
+- Java Packages  
 
+---
 
-PROJECT STRUCTURE
-
-. models package
-. payments package
-. services package
-. data package
-
-
-HOW TO RUN
-
-1. Open CMD in project folder
-
-2. Compile using:
-
-javac Main.java models/*.java payments/*.java services/*.java data/*.java
-
-3. Run using:
-
-java Main
-
-
-Video Link :
+## 🎥 Demo Video
 https://drive.google.com/file/d/1GbbFx2CZKWVv39pPpaAN4AGzKaR_p-5_/view?usp=drivesdk
+
+---
+
+## 🌐 GitHub Repository
+https://github.com/syedmubashirr/Smart-Transport-System
