@@ -1,11 +1,11 @@
 # SMART TRANSPORT SYSTEM
 
-## 📌 Project Description
+##  Project Description
 The Smart Transport System is a Java-based application developed using Object-Oriented Programming (OOP) concepts. It helps manage transport bookings, drivers, and revenue in an organized and efficient way. The system demonstrates real-world software design using modular programming, file handling, and OOP principles.
 
 ---
 
-## 👨‍🎓 Group Members
+##  Group Members
 
 - **Fiza Naz**  
   CMS ID: 023-25-0036  
@@ -17,12 +17,12 @@ The Smart Transport System is a Java-based application developed using Object-Or
 
 ---
 
-## 🎯 Purpose of the Project
+##  Purpose of the Project
 The purpose of this project is to build a Smart Transport System that automates booking management, driver records, and revenue calculation. It strengthens understanding of Java programming and Object-Oriented Programming concepts through practical implementation.
 
 ---
 
-## 🧩 Main Features / Modules
+##  Main Features / Modules
 
 - ➕ New Booking  
 - 📄 View All Bookings  
