@@ -11,7 +11,7 @@ The Smart Transport System is a Java-based application developed using Object-Or
 - CMS ID: 023-25-0036
 - Section: BSCS-II-D
 
-### Mubashir Hussain
+### Mubashir Hussain Shah
 - CMS ID: 023-25-0064
 - Section: BSCS-II-D
 
